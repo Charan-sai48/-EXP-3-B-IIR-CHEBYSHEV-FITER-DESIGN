@@ -189,7 +189,6 @@ disp('High-Pass Filter design completed successfully!');
 
 <img width="1147" height="867" alt="image" src="https://github.com/user-attachments/assets/5a8e1d0c-c42d-40a3-97c8-a69dceedc593" />
 
-
 <img width="767" height="612" alt="image" src="https://github.com/user-attachments/assets/968583a0-68e6-4904-8e3f-d4977dded46c" />
 
 
